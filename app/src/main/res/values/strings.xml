@@ -3,4 +3,19 @@
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+
+    <string name="Jugar">Jugar</string>
+    <string name="Ajustes">Ajustes</string>
+    <string name="Salir">Salir</string>
+    <string name="FabulosoDevF">Fabuloso DevF</string>
+    <string name="reglas_titulo">Reglas</string>
+    <string name="reglas_texto">¡Prepárate!
+    Al inicio, un botón del tablero cambiará de color y tú deberás presionar el mismo botón.
+    Después serán dos botones los que cambiarán de color y que tú deberás presionar en el mismo orden. Luego tres, cuatro, cinco y muchos más.
+    Básicamente, mientras consigas presionar los botones que cambian de color en el orden correcto, el juego irá conformando una secuencia cada vez más larga que tú deberás repetir.
+    Si fallas, debes volver a empezar.</string>
+    <string name="Reglas">Reglas</string>
+    <string name="Fallaste">¡Fallaste!</string>
+    <string name="Jugar_otra">Volver a jugar</string>
+    <string name="title_activity_juego">Juego</string>
 </resources>
